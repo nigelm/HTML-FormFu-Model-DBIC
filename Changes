@@ -1,5 +1,11 @@
 {{$NEXT}}
 
+    - documentation fixes
+
+    - build and packaging tweaks, including travis CI config
+
+2.00 2014-05-05
+
     - switch from MooseX::Attribute::Chained to MooseX::Attribute::FormFuChained
 
 1.01 2014-01-06

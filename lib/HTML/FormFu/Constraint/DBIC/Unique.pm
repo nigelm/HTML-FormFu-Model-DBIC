@@ -1,4 +1,5 @@
 package HTML::FormFu::Constraint::DBIC::Unique;
+
 use Moose;
 use MooseX::Attribute::FormFuChained;
 
