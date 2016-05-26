@@ -2,7 +2,8 @@
 
     - documentation fixes
 
-    - build and packaging tweaks, including travis CI config
+    - build and packaging tweaks, including travis CI config, additional
+      author tests, packaging etc
 
 2.00 2014-05-05
 
