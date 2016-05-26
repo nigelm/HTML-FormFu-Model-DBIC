@@ -61,7 +61,7 @@ HTML::FormFu::Plugin::DBIC::NewRowPK
 
 =head1 SYNOPSIS
 
-    
+
 
 =head1 DESCRIPTION
 
